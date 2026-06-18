@@ -1,0 +1,25 @@
+{
+  "agent": "Boss Brenda",
+  "agent_identity": "girl_agent",
+  "scope": "JAY_ONLY",
+  "allowed_targets": {
+    "github": ["jsonwisdom"],
+    "zora_profile": "https://zora.co/@jaywisdom",
+    "wallets": [
+      "0x829adfedbe565f9885a7ea6bc78912acaef055e2"
+    ],
+    "known_contracts": [
+      "0xfc33d0c818d95dcfb49374a9cfd4ef956e9ec0f4",
+      "0x84dc68b4354be610c44fe63dcadbf56847f7476b"
+    ]
+  },
+  "ignore_rule": "If it does not connect back to Jay, ignore it.",
+  "method": "logs_first_no_vibe_search",
+  "outputs": [
+    "jay_zora_registry",
+    "jay_art_registry",
+    "jay_business_receipts",
+    "jay_github_links"
+  ],
+  "status": "SCOPE_LOCKED"
+}
