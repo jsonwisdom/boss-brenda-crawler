@@ -1,0 +1,27 @@
+{
+  "status": "WALLET_CONSTELLATION_DEFINED",
+  "identity": "Jay Wisdom",
+  "root_scope": "JAY_ONLY",
+  "known_nodes": [
+    {
+      "label": "zora_wallet",
+      "address": "0x829adfedbe565f9885a7ea6bc78912acaef055e2",
+      "role": "zora_activity_anchor",
+      "confidence": "confirmed"
+    },
+    {
+      "label": "jaywisdom_creator_coin",
+      "address": "0x694ce46c64d9d1a5e9376a9febcf85ec05d72e9f",
+      "role": "zora_creator_coin_contract_not_wallet",
+      "confidence": "confirmed"
+    }
+  ],
+  "pending_nodes": [
+    "base_wallets",
+    "coinbase_wallets",
+    "uniswap_wallets",
+    "metamask_wallets",
+    "experiment_wallets"
+  ],
+  "rule": "Do not collapse Jay into one wallet. Build Jay as a wallet constellation proven by logs."
+}
