@@ -1,0 +1,34 @@
+{
+  "evidence_version": "BBC_EVIDENCE_V0_1",
+  "source_chain": "base",
+  "factory_address": "0x777777751622c0d3258f214F9DF38E35BF45baF3",
+  "event_name": "PENDING_EVENT_CONFIRMATION",
+  "event_signature": "PENDING_TOPIC0",
+  "creator_address": "0x829adfedbe565f9885a7ea6bc78912acaef055e2",
+  "block_range": {
+    "from": 25000000,
+    "to": "PENDING_LATEST_BLOCK"
+  },
+  "query": {
+    "address": "factory_address",
+    "topics": [
+      "event_signature",
+      "creator_address_padded_32_bytes"
+    ]
+  },
+  "logs": [],
+  "canonicalization_rules": {
+    "json": "sort_keys_true_no_extra_whitespace",
+    "address_case": "lowercase",
+    "hash_algorithm": "sha256",
+    "timestamp": "utc_iso8601"
+  },
+  "observer_fingerprint": {
+    "repo": "jsonwisdom/boss-brenda-crawler",
+    "commit": "PENDING_COMMIT",
+    "runtime": "google_cloud_shell",
+    "provider": "https://mainnet.base.org"
+  },
+  "receipt_hash": "PENDING_CANONICAL_SHA256",
+  "timestamp_utc": "PENDING_RUNTIME"
+}
