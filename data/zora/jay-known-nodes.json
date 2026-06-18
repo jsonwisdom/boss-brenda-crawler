@@ -1,0 +1,26 @@
+{
+  "status": "KNOWN_NODES_CLASSIFIED",
+  "nodes": [
+    {
+      "address": "0x829adfedbe565f9885a7ea6bc78912acaef055e2",
+      "node_type": "wallet",
+      "relationship": "anchor",
+      "label": "zora_activity_anchor",
+      "confidence": 95
+    },
+    {
+      "address": "0x694ce46c64d9d1a5e9376a9febcf85ec05d72e9f",
+      "node_type": "coin",
+      "relationship": "derived",
+      "label": "jaywisdom_zora_creator_coin",
+      "confidence": 95
+    },
+    {
+      "address": "0xfc33d0c818d95dcfb49374a9cfd4ef956e9ec0f4",
+      "node_type": "coin",
+      "relationship": "known_art_specimen",
+      "label": "boss_brenda_23b",
+      "confidence": 90
+    }
+  ]
+}
