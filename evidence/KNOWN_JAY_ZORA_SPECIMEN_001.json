@@ -1,0 +1,9 @@
+{
+  "id": "KNOWN_JAY_ZORA_SPECIMEN_001",
+  "title": "Boss Brenda 23B — The Audit’s Enforcer",
+  "chain": "base",
+  "zora_url": "https://zora.co/coin/base:0xfc33d0c818d95dcfb49374a9cfd4ef956e9ec0f4",
+  "coin_contract": "0xfc33d0c818d95dcfb49374a9cfd4ef956e9ec0f4",
+  "referrer_wallet": "0x829adfedbe565f9885a7ea6bc78912acaef055e2",
+  "status": "KNOWN_GOOD_SPECIMEN_PENDING_ONCHAIN_TRACE"
+}
