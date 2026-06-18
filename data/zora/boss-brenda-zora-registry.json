@@ -1,1 +1,12 @@
-[]
+{
+  "chain": "base",
+  "factory": "0x777777751622c0d3258f214F9DF38E35BF45baF3",
+  "logs_found": 2452,
+  "scan_range": {
+    "from": 28500000,
+    "to": 28520000
+  },
+  "status": "LIVE_FACTORY_LOG_SCAN_COMPLETED",
+  "timestamp": "2026-06-18T03:32:00.034759",
+  "provider": "https://mainnet.base.org"
+}
