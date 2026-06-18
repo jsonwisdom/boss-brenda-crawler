@@ -10,7 +10,7 @@
     ],
     "known_contracts": [
       "0xfc33d0c818d95dcfb49374a9cfd4ef956e9ec0f4",
-      "0x84dc68b4354be610c44fe63dcadbf56847f7476b"
+      "0x694ce46c64d9d1a5e9376a9febcf85ec05d72e9f"
     ]
   },
   "ignore_rule": "If it does not connect back to Jay, ignore it.",

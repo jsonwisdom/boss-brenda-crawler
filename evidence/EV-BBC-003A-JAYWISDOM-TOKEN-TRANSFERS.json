@@ -1,0 +1,14 @@
+{
+  "status": "TOKEN_TRANSFER_SCAN_COMPLETED",
+  "token": "0xfc33d0c818d95dcfb49374a9cfd4ef956e9ec0f4",
+  "wallet": "0x829adfedbe565f9885a7ea6bc78912acaef055e2",
+  "range": {
+    "from": 25000000,
+    "to": 28520000
+  },
+  "sent_count": 0,
+  "received_count": 0,
+  "entries_count": 0,
+  "timestamp": "2026-06-18T04:14:03.558389+00:00",
+  "entries": []
+}

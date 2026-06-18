@@ -1,0 +1,15 @@
+{
+  "contracts_found": 0,
+  "graph": [],
+  "known_seeds": [
+    "0xfc33d0c818d95dcfb49374a9cfd4ef956e9ec0f4",
+    "0x84dc68b4354be610c44fe63dcadbf56847f7476b"
+  ],
+  "scan_range": {
+    "from": 28500000,
+    "to": 28520000
+  },
+  "scan_timestamp": "2026-06-18T04:08:42.858546+00:00",
+  "status": "GRAPH_DISCOVERY_SEED",
+  "wallet": "0x829adfedbe565f9885a7ea6bc78912acaef055e2"
+}
